@@ -1,0 +1,14 @@
+.swal2-modal {
+    background-color: #283046;
+    /* border: 1px solid white; */
+    border-radius: 10px;
+    color: #fff;
+}
+
+.swal2-text {
+    color: #fff;
+}
+
+.swal2-overlay {
+    background-color: rgba(43, 165, 137, 0.45);
+}
