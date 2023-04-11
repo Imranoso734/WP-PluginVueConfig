@@ -1,1 +1,1 @@
-# pluginWithVueConfig
+#Plugin With Vue Config
